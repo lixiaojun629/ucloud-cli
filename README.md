@@ -2,7 +2,7 @@
   
 - website: https://www.ucloud.cn/
 
-![demo](//ucloud-cli.dl.ufileos.com/cli_demo.gif)
+![demo](http://ucloud-cli.dl.ufileos.com/cli_demo.gif)
 
 The ucloud-cli provides a unified command line interface to manage Ucloud services. It works through Golang SDK based on UCloud OpenAPI and support Linux, macOS, and Windows. 
 
